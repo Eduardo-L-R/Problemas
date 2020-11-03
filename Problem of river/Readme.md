@@ -21,11 +21,11 @@ El archivo "Problem_canivals_and_missionaries.py", contiene el programa necesari
   
   **Linux**
   
-  cd `source <nombre deseado de la carpeta del entorno vitual>/bin/activate`
+  `source <nombre deseado de la carpeta del entorno vitual>/bin/activate`
   
   **Windows**
   
-  cd `<nombre deseado de la carpeta del entorno vitual>/bin/activate.bat`
+  `<nombre deseado de la carpeta del entorno vitual>/bin/activate.bat`
 ### Desactivar espacio virtual
 
   deactivate
