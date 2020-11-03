@@ -21,7 +21,7 @@ El archivo "Problem_canivals_and_missionaries.py", contiene el programa necesari
   
   **Linux**
   
-  cd `<nombre deseado de la carpeta del entorno vitual>/bin/activate`
+  cd `source <nombre deseado de la carpeta del entorno vitual>/bin/activate`
   
   **Windows**
   
