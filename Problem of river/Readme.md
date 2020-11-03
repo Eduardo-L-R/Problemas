@@ -25,7 +25,7 @@ El archivo "Problem_canivals_and_missionaries.py", contiene el programa necesari
   
   **Windows**
   
-  `<nombre deseado de la carpeta del entorno vitual>/bin/activate.bat`
+  `<nombre deseado de la carpeta del entorno vitual>/Scripts/activate.bat`
 ### Desactivar espacio virtual
 
   deactivate
